@@ -4,7 +4,7 @@
 4.Open dms and enjoy
 
 
-IF YOU WAN'T TO UPDATE THE PROGRAM JUST OPEN BOOSTRAPPER OR DOWNLOAD IT FROM HERE
+IF YOU WANT TO UPDATE THE PROGRAM JUST OPEN BOOSTRAPPER OR DOWNLOAD IT FROM HERE
 
 the boostrapper may be detected as a virus but it isn't
 why is it detected as a virus?
